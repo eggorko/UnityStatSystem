@@ -7,6 +7,8 @@ using System;
 
 public class NodeGraphEditor : EditorWindow
 {
+
+    //boop
     private NodeGraph nodeGraph;
     private NodeGraphView nodeGraphView;
     private VisualElement leftPanel;
