@@ -5,7 +5,7 @@ namespace newlinebraces.statsystem
 {
     public class Attribute : Stat
     {
-    //boop
+    //boop//bob
         protected int CurrentValue;
         public int currentValue => CurrentValue;
         public event Action currentValueChanged;
