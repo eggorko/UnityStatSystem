@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <SplitViews>
+        <ui:VisualElement name="LeftPanel" />
+        <NodeGraphView focusable="true" name="RightPanel" style="flex-grow: 1;" />
+    </SplitViews>
+</ui:UXML>
