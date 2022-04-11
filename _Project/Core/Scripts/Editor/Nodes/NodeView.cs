@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
-public class NodeView : Node
+public abstract class NodeView : Node
 {
     public CodeFunctionNode node;
     public List<Port> inputs = new List<Port>();
