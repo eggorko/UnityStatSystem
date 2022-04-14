@@ -15,6 +15,38 @@ MonoBehaviour:
   rootNode: {fileID: 5441381471527355212}
   nodes:
   - {fileID: 5441381471527355212}
+  - {fileID: 3421925959898375372}
+  - {fileID: 1228661833941949616}
+--- !u!114 &1228661833941949616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64d259d78b695a448bd595a45abec817, type: 3}
+  m_Name: Scalar
+  m_EditorClassIdentifier: 
+  position: {x: 134.33333, y: 209.66667}
+  guid: d18c48e844379c5429f4b8f320d08e27
+  m_Value: 0
+--- !u!114 &3421925959898375372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64d259d78b695a448bd595a45abec817, type: 3}
+  m_Name: Scalar
+  m_EditorClassIdentifier: 
+  position: {x: 199, y: 252.66667}
+  guid: 5245a6c13f0fd6e439befb37f45d6883
+  m_Value: 0
 --- !u!114 &5441381471527355212
 MonoBehaviour:
   m_ObjectHideFlags: 0
